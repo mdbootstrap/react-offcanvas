@@ -1,0 +1,31 @@
+{
+  "name": "@mdbootstrap/react-offcanvas",
+  "version": "1.0.0",
+  "description": "Hidden sidebar, perfect for use in the form of additional navigation, for example in ecommerce projects or dashboards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "template",
+    "react",
+    "css",
+    "html",
+    "js",
+    "sidenav"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-offcanvas.git"
+  },
+  "author": "MDBootstrap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-offcanvas/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/react/extended/offcanvas"
+}
